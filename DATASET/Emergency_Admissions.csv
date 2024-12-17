@@ -1,0 +1,1001 @@
+Patient_ID,Emergency_Admissions,Elective_Admissions,Procedures
+1,0,1,Appendectomy
+2,0,0,Appendectomy
+3,0,1,None
+4,0,0,Appendectomy
+5,2,0,Appendectomy
+6,0,0,None
+7,1,1,None
+8,0,0,None
+9,0,0,Appendectomy
+10,0,0,Knee Replacement
+11,1,0,None
+12,0,0,Appendectomy
+13,0,0,Appendectomy
+14,0,0,None
+15,0,0,Knee Replacement
+16,0,1,None
+17,0,2,None
+18,0,0,Appendectomy
+19,0,0,Knee Replacement
+20,0,0,None
+21,0,1,Knee Replacement
+22,0,1,None
+23,0,2,Knee Replacement
+24,0,1,Appendectomy
+25,0,0,Appendectomy
+26,0,0,Appendectomy
+27,0,1,Appendectomy
+28,0,0,None
+29,0,0,Appendectomy
+30,1,1,Knee Replacement
+31,0,0,None
+32,0,0,Appendectomy
+33,0,0,Appendectomy
+34,0,1,Appendectomy
+35,0,1,Knee Replacement
+36,0,2,Knee Replacement
+37,0,0,Knee Replacement
+38,0,0,Appendectomy
+39,0,0,Knee Replacement
+40,1,0,None
+41,0,0,Knee Replacement
+42,0,0,Knee Replacement
+43,0,0,Appendectomy
+44,1,0,Knee Replacement
+45,0,0,Knee Replacement
+46,0,0,None
+47,0,0,None
+48,0,0,Appendectomy
+49,0,1,Appendectomy
+50,1,2,Appendectomy
+51,0,0,Knee Replacement
+52,0,1,None
+53,1,0,None
+54,0,0,None
+55,1,0,Appendectomy
+56,0,0,Knee Replacement
+57,0,0,None
+58,0,0,Appendectomy
+59,1,0,Knee Replacement
+60,0,0,Knee Replacement
+61,0,0,None
+62,0,0,None
+63,1,0,Appendectomy
+64,0,0,Appendectomy
+65,1,0,Appendectomy
+66,0,0,Knee Replacement
+67,1,1,None
+68,0,0,Appendectomy
+69,0,1,Appendectomy
+70,0,0,None
+71,0,1,None
+72,0,1,Appendectomy
+73,0,0,None
+74,2,0,None
+75,0,0,None
+76,0,1,None
+77,0,0,None
+78,0,0,Knee Replacement
+79,1,0,Appendectomy
+80,0,0,Appendectomy
+81,0,0,Appendectomy
+82,0,1,None
+83,0,0,Knee Replacement
+84,0,0,None
+85,0,0,Appendectomy
+86,0,0,None
+87,0,2,None
+88,0,1,Knee Replacement
+89,1,1,Appendectomy
+90,0,1,None
+91,0,0,Appendectomy
+92,0,0,Knee Replacement
+93,0,0,Knee Replacement
+94,0,2,None
+95,0,0,Knee Replacement
+96,0,1,Appendectomy
+97,0,0,Appendectomy
+98,1,0,None
+99,0,1,Knee Replacement
+100,0,0,Appendectomy
+101,0,0,Knee Replacement
+102,0,1,None
+103,1,0,None
+104,0,0,None
+105,0,0,Knee Replacement
+106,0,1,None
+107,0,0,Knee Replacement
+108,0,0,Knee Replacement
+109,1,0,Knee Replacement
+110,0,0,None
+111,1,0,Appendectomy
+112,0,0,Appendectomy
+113,0,1,Knee Replacement
+114,0,0,Knee Replacement
+115,0,0,None
+116,0,0,None
+117,1,0,Knee Replacement
+118,0,0,Knee Replacement
+119,0,1,None
+120,0,0,None
+121,0,0,Knee Replacement
+122,1,0,None
+123,0,0,None
+124,0,0,None
+125,1,1,None
+126,0,0,Knee Replacement
+127,0,1,Knee Replacement
+128,0,1,Knee Replacement
+129,0,0,None
+130,0,0,None
+131,0,0,Appendectomy
+132,0,0,None
+133,0,1,None
+134,0,0,Knee Replacement
+135,0,1,None
+136,0,0,Appendectomy
+137,1,1,Knee Replacement
+138,0,0,Appendectomy
+139,0,0,Appendectomy
+140,0,0,None
+141,0,1,Knee Replacement
+142,0,0,None
+143,0,0,None
+144,0,1,None
+145,0,1,None
+146,1,0,None
+147,0,0,None
+148,0,0,Knee Replacement
+149,0,0,Knee Replacement
+150,0,0,Appendectomy
+151,0,0,Knee Replacement
+152,1,0,Appendectomy
+153,1,1,None
+154,0,0,Knee Replacement
+155,0,0,Appendectomy
+156,0,1,Appendectomy
+157,0,0,Knee Replacement
+158,0,0,None
+159,0,0,None
+160,0,0,Appendectomy
+161,0,1,Appendectomy
+162,0,1,Knee Replacement
+163,0,0,Appendectomy
+164,1,0,Knee Replacement
+165,0,0,None
+166,1,1,None
+167,0,1,Appendectomy
+168,0,0,Appendectomy
+169,0,0,Appendectomy
+170,0,0,None
+171,0,0,None
+172,0,0,None
+173,0,2,Appendectomy
+174,0,0,Appendectomy
+175,0,0,Knee Replacement
+176,0,0,None
+177,0,1,Appendectomy
+178,0,0,Appendectomy
+179,0,0,Knee Replacement
+180,0,0,Knee Replacement
+181,0,0,None
+182,1,0,Knee Replacement
+183,0,0,Appendectomy
+184,0,0,Appendectomy
+185,0,0,Knee Replacement
+186,0,0,None
+187,0,0,Appendectomy
+188,0,0,Knee Replacement
+189,0,0,Appendectomy
+190,0,0,None
+191,0,1,Knee Replacement
+192,1,0,Knee Replacement
+193,0,1,Knee Replacement
+194,0,1,Appendectomy
+195,0,0,Appendectomy
+196,1,0,Knee Replacement
+197,0,0,Knee Replacement
+198,1,0,Appendectomy
+199,0,0,Knee Replacement
+200,1,0,Appendectomy
+201,0,0,Knee Replacement
+202,0,0,None
+203,0,0,Appendectomy
+204,0,1,None
+205,0,0,Appendectomy
+206,0,0,Knee Replacement
+207,0,0,Knee Replacement
+208,2,0,Knee Replacement
+209,0,0,Appendectomy
+210,1,0,Knee Replacement
+211,0,1,Appendectomy
+212,0,0,Knee Replacement
+213,0,0,None
+214,1,0,Knee Replacement
+215,0,0,Knee Replacement
+216,0,1,Appendectomy
+217,1,0,Knee Replacement
+218,1,0,Knee Replacement
+219,0,0,Appendectomy
+220,1,1,Knee Replacement
+221,0,1,Knee Replacement
+222,0,0,Knee Replacement
+223,2,0,Appendectomy
+224,1,0,Appendectomy
+225,0,0,None
+226,0,0,Appendectomy
+227,0,1,None
+228,0,2,None
+229,0,0,Appendectomy
+230,0,0,None
+231,1,0,None
+232,0,0,None
+233,0,0,Appendectomy
+234,0,0,None
+235,1,0,Knee Replacement
+236,0,0,None
+237,1,0,None
+238,1,0,Appendectomy
+239,0,0,Knee Replacement
+240,0,0,None
+241,0,0,None
+242,0,0,None
+243,0,0,Appendectomy
+244,0,0,None
+245,0,1,Appendectomy
+246,2,0,Appendectomy
+247,0,0,None
+248,0,0,Appendectomy
+249,0,0,Knee Replacement
+250,0,0,None
+251,0,0,Knee Replacement
+252,0,0,Appendectomy
+253,1,1,Knee Replacement
+254,1,0,None
+255,0,0,None
+256,0,0,Knee Replacement
+257,0,0,Knee Replacement
+258,0,1,None
+259,3,1,Appendectomy
+260,0,0,Knee Replacement
+261,1,0,Appendectomy
+262,0,0,Appendectomy
+263,1,0,None
+264,1,0,Appendectomy
+265,0,0,Appendectomy
+266,1,0,Appendectomy
+267,2,2,Knee Replacement
+268,0,0,Knee Replacement
+269,0,0,None
+270,1,1,None
+271,0,0,Knee Replacement
+272,0,0,Appendectomy
+273,0,0,Appendectomy
+274,0,0,Appendectomy
+275,0,0,Knee Replacement
+276,0,1,Knee Replacement
+277,0,1,Knee Replacement
+278,0,2,Knee Replacement
+279,1,0,Knee Replacement
+280,0,0,Appendectomy
+281,0,1,Appendectomy
+282,1,2,Knee Replacement
+283,0,1,None
+284,0,0,None
+285,0,0,Knee Replacement
+286,0,0,Knee Replacement
+287,0,0,Knee Replacement
+288,0,0,Appendectomy
+289,0,0,Appendectomy
+290,0,0,Appendectomy
+291,0,0,Appendectomy
+292,0,0,Appendectomy
+293,0,0,Knee Replacement
+294,0,1,Knee Replacement
+295,0,0,Knee Replacement
+296,0,0,Knee Replacement
+297,1,1,Appendectomy
+298,0,0,None
+299,0,0,Knee Replacement
+300,0,1,Appendectomy
+301,0,0,None
+302,0,1,Appendectomy
+303,1,0,Knee Replacement
+304,1,0,Appendectomy
+305,0,0,Knee Replacement
+306,0,0,Appendectomy
+307,0,1,None
+308,0,0,None
+309,0,0,Knee Replacement
+310,0,1,None
+311,0,0,Knee Replacement
+312,0,0,None
+313,0,1,Knee Replacement
+314,0,0,None
+315,1,0,Knee Replacement
+316,0,0,Knee Replacement
+317,0,0,Appendectomy
+318,0,0,Appendectomy
+319,0,0,None
+320,1,0,None
+321,0,0,Appendectomy
+322,1,0,None
+323,0,0,Knee Replacement
+324,1,1,Appendectomy
+325,2,0,Appendectomy
+326,0,0,None
+327,0,0,None
+328,1,0,Appendectomy
+329,0,0,None
+330,2,0,Knee Replacement
+331,0,0,None
+332,0,2,Knee Replacement
+333,0,1,None
+334,0,0,None
+335,0,0,Appendectomy
+336,0,0,Appendectomy
+337,0,0,None
+338,1,0,Knee Replacement
+339,0,0,Knee Replacement
+340,0,0,None
+341,0,1,Appendectomy
+342,0,0,Appendectomy
+343,0,0,Knee Replacement
+344,0,0,Knee Replacement
+345,0,1,None
+346,0,0,Appendectomy
+347,1,1,Knee Replacement
+348,0,1,None
+349,0,1,Knee Replacement
+350,0,0,Appendectomy
+351,1,0,Appendectomy
+352,0,0,None
+353,0,0,None
+354,0,0,Knee Replacement
+355,0,1,None
+356,0,0,Knee Replacement
+357,0,0,Appendectomy
+358,0,0,None
+359,2,1,Appendectomy
+360,0,0,None
+361,0,0,None
+362,0,0,Appendectomy
+363,3,0,Appendectomy
+364,0,0,None
+365,0,0,Knee Replacement
+366,0,0,Knee Replacement
+367,0,0,None
+368,0,1,Knee Replacement
+369,0,0,Knee Replacement
+370,1,0,None
+371,0,1,Appendectomy
+372,0,0,Knee Replacement
+373,0,0,Appendectomy
+374,1,0,Appendectomy
+375,0,0,None
+376,0,0,Appendectomy
+377,1,0,Appendectomy
+378,1,0,Knee Replacement
+379,1,0,None
+380,0,0,Appendectomy
+381,0,0,Knee Replacement
+382,0,0,Knee Replacement
+383,1,1,Appendectomy
+384,0,1,None
+385,0,1,None
+386,0,0,Appendectomy
+387,0,0,None
+388,0,0,Appendectomy
+389,1,0,Knee Replacement
+390,0,0,None
+391,0,0,None
+392,0,0,Appendectomy
+393,0,0,Appendectomy
+394,0,0,Knee Replacement
+395,0,0,Appendectomy
+396,2,0,Appendectomy
+397,0,0,Appendectomy
+398,1,0,Knee Replacement
+399,0,0,Appendectomy
+400,0,0,None
+401,0,1,Appendectomy
+402,0,1,Knee Replacement
+403,0,1,Knee Replacement
+404,0,0,None
+405,0,0,None
+406,0,0,Knee Replacement
+407,0,0,Appendectomy
+408,0,0,None
+409,0,0,None
+410,0,0,None
+411,1,0,None
+412,0,0,Appendectomy
+413,0,1,Knee Replacement
+414,0,0,Knee Replacement
+415,0,1,Knee Replacement
+416,0,0,None
+417,0,0,Appendectomy
+418,0,0,Knee Replacement
+419,0,0,Appendectomy
+420,0,0,Knee Replacement
+421,1,0,Knee Replacement
+422,0,1,Knee Replacement
+423,1,0,Appendectomy
+424,0,1,None
+425,0,0,Knee Replacement
+426,1,0,Appendectomy
+427,0,0,Knee Replacement
+428,0,0,Knee Replacement
+429,0,0,Appendectomy
+430,2,0,None
+431,0,0,Appendectomy
+432,0,0,None
+433,1,0,None
+434,0,0,Appendectomy
+435,0,0,Knee Replacement
+436,2,0,Knee Replacement
+437,0,0,None
+438,2,0,Knee Replacement
+439,0,1,None
+440,0,1,Appendectomy
+441,0,0,None
+442,0,0,Appendectomy
+443,0,0,Appendectomy
+444,1,0,None
+445,0,1,None
+446,0,0,None
+447,0,0,Knee Replacement
+448,0,1,Appendectomy
+449,0,0,Appendectomy
+450,0,0,Appendectomy
+451,0,0,Appendectomy
+452,0,0,None
+453,0,0,Appendectomy
+454,0,1,Appendectomy
+455,0,1,Knee Replacement
+456,0,0,None
+457,1,0,Appendectomy
+458,0,0,Appendectomy
+459,0,0,Appendectomy
+460,1,0,None
+461,0,1,Knee Replacement
+462,0,0,Appendectomy
+463,0,1,Appendectomy
+464,2,0,None
+465,0,1,Knee Replacement
+466,0,0,Appendectomy
+467,1,0,Knee Replacement
+468,0,1,Appendectomy
+469,0,0,Appendectomy
+470,0,0,Knee Replacement
+471,0,1,Knee Replacement
+472,0,0,None
+473,0,0,None
+474,0,0,None
+475,1,0,Appendectomy
+476,1,1,None
+477,0,1,None
+478,0,0,Knee Replacement
+479,0,0,Knee Replacement
+480,0,0,Knee Replacement
+481,1,0,Appendectomy
+482,0,0,None
+483,0,0,Knee Replacement
+484,1,1,Appendectomy
+485,0,0,Knee Replacement
+486,0,0,Knee Replacement
+487,1,0,None
+488,0,0,Knee Replacement
+489,0,0,Knee Replacement
+490,0,0,Knee Replacement
+491,1,0,Knee Replacement
+492,0,1,Knee Replacement
+493,0,0,Appendectomy
+494,0,0,None
+495,0,0,Appendectomy
+496,0,0,Appendectomy
+497,1,0,Knee Replacement
+498,1,0,Appendectomy
+499,0,0,None
+500,0,0,None
+501,0,0,Appendectomy
+502,0,0,Knee Replacement
+503,0,0,Appendectomy
+504,0,1,None
+505,1,0,Appendectomy
+506,1,0,Appendectomy
+507,0,0,None
+508,0,1,None
+509,0,0,None
+510,0,0,Appendectomy
+511,0,0,Knee Replacement
+512,0,0,Appendectomy
+513,0,0,Appendectomy
+514,0,0,None
+515,0,0,Appendectomy
+516,0,0,Appendectomy
+517,0,0,Appendectomy
+518,0,0,None
+519,0,0,Appendectomy
+520,1,1,Knee Replacement
+521,1,0,Appendectomy
+522,0,1,None
+523,0,0,Knee Replacement
+524,0,2,Appendectomy
+525,0,0,Appendectomy
+526,1,0,Appendectomy
+527,2,0,Knee Replacement
+528,0,0,None
+529,0,0,None
+530,0,0,None
+531,0,1,Knee Replacement
+532,0,0,Appendectomy
+533,0,0,Appendectomy
+534,0,0,None
+535,1,2,None
+536,0,0,Appendectomy
+537,0,0,Knee Replacement
+538,0,1,None
+539,0,1,Appendectomy
+540,0,2,Appendectomy
+541,0,0,Appendectomy
+542,0,2,Knee Replacement
+543,0,0,Appendectomy
+544,0,0,None
+545,0,0,None
+546,1,0,Appendectomy
+547,0,0,Knee Replacement
+548,0,0,Appendectomy
+549,0,0,None
+550,1,1,None
+551,0,1,Appendectomy
+552,0,1,None
+553,0,0,Appendectomy
+554,0,0,None
+555,0,0,Knee Replacement
+556,1,0,Knee Replacement
+557,1,0,Appendectomy
+558,0,1,None
+559,0,0,None
+560,0,0,Appendectomy
+561,0,0,Knee Replacement
+562,0,0,Knee Replacement
+563,0,0,None
+564,0,0,Appendectomy
+565,1,0,Appendectomy
+566,0,0,None
+567,0,0,Knee Replacement
+568,0,0,None
+569,1,0,Appendectomy
+570,0,1,Appendectomy
+571,0,0,Appendectomy
+572,1,0,None
+573,0,0,Appendectomy
+574,0,0,Knee Replacement
+575,0,0,Appendectomy
+576,0,0,Knee Replacement
+577,0,0,None
+578,0,0,Knee Replacement
+579,0,1,None
+580,0,1,Appendectomy
+581,0,3,Knee Replacement
+582,0,1,Appendectomy
+583,0,0,Appendectomy
+584,0,0,None
+585,0,0,None
+586,1,0,None
+587,0,0,Knee Replacement
+588,0,0,Knee Replacement
+589,1,0,Knee Replacement
+590,0,0,None
+591,0,0,Knee Replacement
+592,1,0,Knee Replacement
+593,0,0,None
+594,0,0,None
+595,1,0,Knee Replacement
+596,0,1,None
+597,0,0,Knee Replacement
+598,0,0,None
+599,0,2,Knee Replacement
+600,0,0,Appendectomy
+601,0,0,Knee Replacement
+602,0,0,Knee Replacement
+603,0,0,None
+604,0,1,Knee Replacement
+605,0,0,None
+606,0,0,None
+607,0,2,None
+608,0,0,Knee Replacement
+609,1,0,Appendectomy
+610,0,1,Knee Replacement
+611,0,1,None
+612,1,0,Appendectomy
+613,0,1,Appendectomy
+614,0,0,Knee Replacement
+615,1,2,Appendectomy
+616,0,0,Knee Replacement
+617,0,0,None
+618,0,0,Appendectomy
+619,0,0,None
+620,0,0,None
+621,0,0,None
+622,0,1,Appendectomy
+623,0,2,Knee Replacement
+624,0,0,Knee Replacement
+625,0,0,Knee Replacement
+626,0,0,Knee Replacement
+627,0,0,Knee Replacement
+628,1,0,Knee Replacement
+629,0,0,None
+630,0,1,Knee Replacement
+631,0,0,Knee Replacement
+632,1,1,None
+633,0,1,Appendectomy
+634,0,0,Appendectomy
+635,1,0,Knee Replacement
+636,0,0,None
+637,0,2,Appendectomy
+638,0,0,Knee Replacement
+639,0,0,None
+640,1,0,None
+641,1,0,None
+642,0,1,Knee Replacement
+643,0,0,Appendectomy
+644,1,0,Appendectomy
+645,1,1,None
+646,1,0,Appendectomy
+647,1,0,Appendectomy
+648,0,0,None
+649,0,0,None
+650,0,0,Knee Replacement
+651,0,2,Appendectomy
+652,0,0,Knee Replacement
+653,0,0,Appendectomy
+654,0,0,Appendectomy
+655,0,0,Appendectomy
+656,0,0,Appendectomy
+657,0,0,Knee Replacement
+658,0,0,None
+659,0,0,Appendectomy
+660,0,2,None
+661,0,1,None
+662,0,0,None
+663,0,0,None
+664,1,1,None
+665,0,0,Knee Replacement
+666,0,0,Knee Replacement
+667,1,0,None
+668,0,0,None
+669,0,1,Knee Replacement
+670,0,0,None
+671,0,0,Appendectomy
+672,0,0,Knee Replacement
+673,0,0,None
+674,0,0,Appendectomy
+675,0,0,Knee Replacement
+676,0,0,Knee Replacement
+677,1,0,None
+678,0,0,Knee Replacement
+679,2,0,Appendectomy
+680,1,0,None
+681,0,0,Appendectomy
+682,0,0,None
+683,0,1,Appendectomy
+684,0,0,Appendectomy
+685,0,0,None
+686,0,0,Appendectomy
+687,0,0,Knee Replacement
+688,1,1,Knee Replacement
+689,0,1,Knee Replacement
+690,0,0,None
+691,0,0,Appendectomy
+692,0,0,None
+693,0,0,None
+694,0,0,Knee Replacement
+695,0,0,None
+696,0,1,Knee Replacement
+697,0,0,Knee Replacement
+698,0,1,Appendectomy
+699,0,1,None
+700,0,0,None
+701,0,0,Knee Replacement
+702,0,0,Appendectomy
+703,0,0,Appendectomy
+704,0,0,None
+705,0,1,Knee Replacement
+706,0,0,Appendectomy
+707,0,0,Appendectomy
+708,1,0,Appendectomy
+709,0,0,Appendectomy
+710,0,0,Knee Replacement
+711,0,0,None
+712,0,0,None
+713,0,0,Appendectomy
+714,1,1,Knee Replacement
+715,0,0,Knee Replacement
+716,0,0,None
+717,0,0,None
+718,0,0,None
+719,0,0,None
+720,0,1,Appendectomy
+721,0,0,Knee Replacement
+722,0,0,Knee Replacement
+723,0,1,Knee Replacement
+724,0,0,None
+725,0,0,Appendectomy
+726,0,0,None
+727,0,0,None
+728,0,1,None
+729,0,0,Appendectomy
+730,0,0,None
+731,0,0,None
+732,0,0,None
+733,0,0,Appendectomy
+734,0,0,Appendectomy
+735,0,1,None
+736,0,0,None
+737,1,0,Appendectomy
+738,0,1,Appendectomy
+739,0,0,None
+740,0,0,Appendectomy
+741,1,0,None
+742,0,0,Appendectomy
+743,0,0,None
+744,1,0,Appendectomy
+745,0,0,Appendectomy
+746,0,0,Appendectomy
+747,1,0,Knee Replacement
+748,0,0,None
+749,1,1,Knee Replacement
+750,0,1,None
+751,0,0,None
+752,0,0,None
+753,0,1,None
+754,0,0,Knee Replacement
+755,0,0,None
+756,0,0,Appendectomy
+757,1,0,Appendectomy
+758,0,0,Appendectomy
+759,0,2,Knee Replacement
+760,0,0,Knee Replacement
+761,0,0,None
+762,0,0,Appendectomy
+763,0,0,None
+764,0,1,Knee Replacement
+765,0,0,Knee Replacement
+766,0,0,None
+767,0,1,Knee Replacement
+768,0,1,Knee Replacement
+769,1,0,None
+770,0,0,Knee Replacement
+771,0,0,Appendectomy
+772,0,0,Knee Replacement
+773,1,0,None
+774,1,0,Knee Replacement
+775,0,0,None
+776,0,0,Knee Replacement
+777,0,1,None
+778,0,0,None
+779,0,0,Appendectomy
+780,0,0,None
+781,0,0,None
+782,0,0,None
+783,0,0,Appendectomy
+784,1,1,Knee Replacement
+785,0,1,Knee Replacement
+786,1,0,Knee Replacement
+787,1,0,Appendectomy
+788,0,0,Knee Replacement
+789,0,0,Appendectomy
+790,0,1,Appendectomy
+791,0,0,None
+792,0,0,Appendectomy
+793,0,2,Knee Replacement
+794,0,0,Appendectomy
+795,0,0,Knee Replacement
+796,0,0,Knee Replacement
+797,2,0,None
+798,0,0,Knee Replacement
+799,0,0,None
+800,0,0,None
+801,0,2,Knee Replacement
+802,0,0,Knee Replacement
+803,0,0,Knee Replacement
+804,0,1,Appendectomy
+805,0,1,None
+806,1,0,Knee Replacement
+807,0,1,Appendectomy
+808,1,0,Knee Replacement
+809,0,0,None
+810,0,1,None
+811,0,1,None
+812,0,0,None
+813,0,1,Knee Replacement
+814,0,2,None
+815,0,0,None
+816,0,1,Knee Replacement
+817,1,0,Knee Replacement
+818,0,0,Appendectomy
+819,0,1,None
+820,1,1,Knee Replacement
+821,0,0,Appendectomy
+822,1,0,Knee Replacement
+823,0,0,Appendectomy
+824,0,0,Appendectomy
+825,0,0,None
+826,0,0,Appendectomy
+827,0,0,None
+828,0,0,Appendectomy
+829,0,1,Knee Replacement
+830,0,0,Appendectomy
+831,0,0,Appendectomy
+832,1,0,None
+833,1,0,None
+834,0,0,None
+835,0,0,None
+836,0,2,Appendectomy
+837,2,0,Appendectomy
+838,0,2,Knee Replacement
+839,0,0,None
+840,1,0,Appendectomy
+841,0,0,Knee Replacement
+842,0,1,Appendectomy
+843,1,0,None
+844,0,0,None
+845,0,1,Knee Replacement
+846,0,0,Appendectomy
+847,0,1,None
+848,0,2,None
+849,0,0,None
+850,1,0,Knee Replacement
+851,0,0,None
+852,1,2,Knee Replacement
+853,1,0,Appendectomy
+854,1,0,Appendectomy
+855,1,0,Knee Replacement
+856,0,0,None
+857,0,0,None
+858,0,1,None
+859,0,0,Knee Replacement
+860,0,0,Appendectomy
+861,2,1,Appendectomy
+862,0,1,Appendectomy
+863,1,0,Appendectomy
+864,0,0,Appendectomy
+865,0,0,None
+866,0,0,Appendectomy
+867,0,0,Appendectomy
+868,0,0,None
+869,0,0,None
+870,0,1,Appendectomy
+871,0,1,Appendectomy
+872,0,0,Knee Replacement
+873,0,1,None
+874,0,0,Knee Replacement
+875,0,0,Knee Replacement
+876,0,0,Knee Replacement
+877,0,0,Knee Replacement
+878,1,0,Knee Replacement
+879,0,1,None
+880,1,0,Appendectomy
+881,0,0,None
+882,1,0,Appendectomy
+883,0,0,Appendectomy
+884,0,0,Knee Replacement
+885,0,0,Knee Replacement
+886,0,0,Knee Replacement
+887,0,0,Appendectomy
+888,1,0,None
+889,1,0,None
+890,0,0,None
+891,1,0,Knee Replacement
+892,0,0,Appendectomy
+893,0,0,None
+894,0,0,Appendectomy
+895,0,0,Appendectomy
+896,0,0,None
+897,0,1,None
+898,1,0,None
+899,0,0,Knee Replacement
+900,0,0,None
+901,0,0,Appendectomy
+902,0,1,Appendectomy
+903,0,1,None
+904,1,1,Appendectomy
+905,0,0,None
+906,0,0,Knee Replacement
+907,2,1,Knee Replacement
+908,1,0,None
+909,0,0,None
+910,0,0,Appendectomy
+911,0,0,Appendectomy
+912,0,1,Appendectomy
+913,0,1,Knee Replacement
+914,1,1,None
+915,0,0,Knee Replacement
+916,1,0,None
+917,0,0,Knee Replacement
+918,0,0,Appendectomy
+919,0,0,Appendectomy
+920,0,0,Knee Replacement
+921,0,0,Appendectomy
+922,0,1,None
+923,0,0,Appendectomy
+924,0,0,Knee Replacement
+925,2,0,Appendectomy
+926,1,0,Appendectomy
+927,0,0,Knee Replacement
+928,0,1,Appendectomy
+929,1,0,Knee Replacement
+930,0,1,Appendectomy
+931,0,0,Knee Replacement
+932,0,0,None
+933,0,1,Appendectomy
+934,0,0,None
+935,0,0,None
+936,1,0,Knee Replacement
+937,1,0,None
+938,0,2,Appendectomy
+939,0,1,None
+940,0,1,Knee Replacement
+941,1,2,Appendectomy
+942,0,0,Appendectomy
+943,0,1,Knee Replacement
+944,0,0,None
+945,0,0,Appendectomy
+946,0,0,Knee Replacement
+947,0,0,None
+948,0,0,Knee Replacement
+949,0,0,Appendectomy
+950,0,1,None
+951,0,0,None
+952,0,0,Knee Replacement
+953,0,0,Appendectomy
+954,0,0,Knee Replacement
+955,0,0,Knee Replacement
+956,0,0,None
+957,0,0,Knee Replacement
+958,0,0,None
+959,0,1,Knee Replacement
+960,0,0,None
+961,1,0,Appendectomy
+962,0,0,Appendectomy
+963,0,0,None
+964,0,0,None
+965,0,0,Appendectomy
+966,0,0,Knee Replacement
+967,0,0,Appendectomy
+968,1,0,Appendectomy
+969,0,1,Knee Replacement
+970,2,0,Appendectomy
+971,0,0,Appendectomy
+972,0,0,Appendectomy
+973,0,0,None
+974,0,0,Appendectomy
+975,0,2,Knee Replacement
+976,0,1,Knee Replacement
+977,0,1,Knee Replacement
+978,0,1,None
+979,0,0,Appendectomy
+980,0,0,Knee Replacement
+981,0,1,None
+982,0,0,Knee Replacement
+983,0,0,Knee Replacement
+984,0,1,None
+985,0,0,Knee Replacement
+986,0,0,Knee Replacement
+987,0,0,Knee Replacement
+988,0,1,Knee Replacement
+989,0,0,None
+990,0,0,None
+991,0,0,Knee Replacement
+992,0,0,None
+993,0,0,None
+994,0,1,None
+995,1,0,Knee Replacement
+996,0,0,None
+997,0,0,None
+998,0,0,Knee Replacement
+999,0,0,Knee Replacement
+1000,1,0,None

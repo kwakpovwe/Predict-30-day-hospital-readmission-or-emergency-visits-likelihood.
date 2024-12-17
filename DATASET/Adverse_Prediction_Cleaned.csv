@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Condition_x,Condition_y,Medication,A&E_Attendance,Emergency_Admissions,Elective_Admissions,Procedures,Outpatient_Visits,Social_Care_Package
+1.0,54.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+2.0,81.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+3.0,36.0,Male,Diabetes,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+5.0,21.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+6.0,31.0,Male,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+7.0,58.0,Female,Asthma,Diabetes,Metformin,1.0,1.0,1.0,Appendectomy,1.0,Respite Care
+8.0,21.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+9.0,79.0,Female,Asthma,Diabetes,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Home Care
+10.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+11.0,31.0,Female,Asthma,Asthma,Lisinopril,0.0,1.0,0.0,Appendectomy,1.0,Home Care
+12.0,32.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+13.0,19.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+14.0,45.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+15.0,59.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+16.0,50.0,Female,Asthma,Diabetes,Lisinopril,0.0,0.0,1.0,Appendectomy,3.0,Respite Care
+17.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,2.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+19.0,33.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+20.0,35.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,54.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,1.0,Appendectomy,1.0,Respite Care
+22.0,73.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+23.0,49.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,2.0,Knee Replacement,1.0,Home Care
+24.0,39.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,3.0,Respite Care
+497.5,27.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+26.0,45.0,Female,Asthma,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+27.0,20.0,Female,Hypertension,Diabetes,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+28.0,23.0,Female,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+29.0,84.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+30.0,43.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+31.0,54.0,Male,Asthma,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+32.0,65.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,51.0,Male,Hypertension,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+34.0,57.0,Male,Diabetes,Diabetes,Lisinopril,0.0,0.0,1.0,Appendectomy,3.0,Respite Care
+35.0,85.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Knee Replacement,0.0,Respite Care
+36.0,54.0,Female,Asthma,Hypertension,Lisinopril,1.0,0.0,2.0,Appendectomy,0.0,Respite Care
+37.0,84.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+38.0,72.0,Male,Hypertension,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,65.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,2.0,Home Care
+40.0,18.0,Male,Asthma,Asthma,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+41.0,58.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+42.0,51.0,Male,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+43.0,54.0,Male,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,31.0,Female,Hypertension,Diabetes,Lisinopril,0.0,1.0,0.0,Knee Replacement,1.0,Home Care
+45.0,86.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,28.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Home Care
+47.0,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+48.0,54.0,Male,Hypertension,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+49.0,20.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Home Care
+50.0,54.0,Female,Diabetes,Asthma,Metformin,2.0,0.0,2.0,Appendectomy,0.0,Home Care
+51.0,66.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+52.0,59.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+53.0,23.0,Male,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,2.0,Respite Care
+54.0,46.0,Female,Diabetes,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+55.0,51.0,Male,Asthma,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,4.0,Respite Care
+497.5,38.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+57.0,86.0,Male,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+58.0,57.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+59.0,54.0,Male,Asthma,Asthma,Metformin,0.0,1.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+61.0,84.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+62.0,37.0,Female,Diabetes,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+63.0,41.0,Male,Hypertension,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,67.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+65.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+66.0,89.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+67.0,80.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+68.0,82.0,Female,Asthma,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+69.0,70.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Home Care
+70.0,64.0,Male,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,56.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Home Care
+72.0,53.0,Male,Asthma,Hypertension,Metformin,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+73.0,54.0,Male,Diabetes,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+74.0,54.0,Female,Asthma,Asthma,Salbutamol,1.0,2.0,0.0,Appendectomy,0.0,Respite Care
+75.0,54.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+76.0,36.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+77.0,84.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,28.0,Male,Asthma,Hypertension,Metformin,1.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+79.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,3.0,Respite Care
+80.0,63.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,88.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,2.0,Home Care
+82.0,42.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,0.0,Home Care
+83.0,43.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,46.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+85.0,30.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+86.0,41.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+87.0,85.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,2.0,Appendectomy,0.0,Home Care
+88.0,25.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+89.0,62.0,Female,Diabetes,Diabetes,Metformin,1.0,1.0,1.0,Appendectomy,3.0,Respite Care
+497.5,30.0,Male,Diabetes,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+91.0,30.0,Female,Hypertension,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+92.0,54.0,Male,Asthma,Diabetes,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+93.0,80.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,89.0,Male,Hypertension,Asthma,Salbutamol,0.0,0.0,2.0,Appendectomy,0.0,Home Care
+95.0,27.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Home Care
+497.5,34.0,Male,Diabetes,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,0.0,Home Care
+97.0,53.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+98.0,54.0,Female,Asthma,Hypertension,Salbutamol,2.0,1.0,0.0,Appendectomy,1.0,Home Care
+99.0,62.0,Male,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+100.0,66.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+101.0,20.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+102.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,2.0,Home Care
+103.0,68.0,Male,Asthma,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+104.0,54.0,Male,Asthma,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+105.0,33.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+106.0,54.0,Male,Diabetes,Asthma,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Home Care
+107.0,54.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+108.0,61.0,Female,Hypertension,Hypertension,Metformin,3.0,0.0,0.0,Appendectomy,0.0,Respite Care
+109.0,73.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+110.0,29.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+111.0,38.0,Female,Asthma,Asthma,Salbutamol,0.0,1.0,0.0,Appendectomy,3.0,Respite Care
+112.0,54.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+113.0,80.0,Female,Hypertension,Hypertension,Metformin,1.0,0.0,1.0,Knee Replacement,2.0,Home Care
+114.0,50.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+115.0,51.0,Male,Hypertension,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+116.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,30.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+118.0,71.0,Female,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+119.0,54.0,Female,Asthma,Asthma,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,75.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+121.0,54.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+122.0,51.0,Female,Diabetes,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,1.0,Home Care
+123.0,82.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+497.5,70.0,Male,Hypertension,Asthma,Lisinopril,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,71.0,Female,Asthma,Hypertension,Metformin,2.0,1.0,1.0,Appendectomy,0.0,Respite Care
+126.0,44.0,Female,Asthma,Asthma,Salbutamol,2.0,0.0,0.0,Knee Replacement,1.0,Home Care
+497.5,70.0,Male,Hypertension,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+128.0,58.0,Female,Hypertension,Diabetes,Salbutamol,1.0,0.0,1.0,Knee Replacement,0.0,Respite Care
+129.0,69.0,Female,Asthma,Diabetes,Metformin,3.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,19.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,53.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+133.0,66.0,Male,Asthma,Hypertension,Metformin,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+134.0,43.0,Female,Diabetes,Asthma,Salbutamol,1.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+135.0,57.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+136.0,53.0,Female,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+137.0,54.0,Female,Hypertension,Asthma,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Home Care
+138.0,67.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+139.0,71.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+141.0,54.0,Male,Asthma,Diabetes,Metformin,0.0,0.0,1.0,Knee Replacement,0.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+143.0,68.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,89.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,1.0,Appendectomy,3.0,Respite Care
+497.5,54.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+146.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+147.0,21.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+148.0,80.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+149.0,54.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+150.0,77.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+151.0,27.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+152.0,54.0,Male,Diabetes,Diabetes,Lisinopril,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+153.0,70.0,Male,Asthma,Hypertension,Lisinopril,1.0,1.0,1.0,Appendectomy,0.0,Home Care
+154.0,24.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+155.0,78.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,53.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,2.0,Home Care
+157.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+158.0,35.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,4.0,Home Care
+497.5,44.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+160.0,35.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,41.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,2.0,Home Care
+162.0,56.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+163.0,69.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+164.0,58.0,Female,Hypertension,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,0.0,Respite Care
+165.0,57.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+166.0,31.0,Female,Asthma,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,0.0,Home Care
+167.0,35.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+168.0,51.0,Female,Hypertension,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+169.0,31.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+170.0,49.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,86.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+172.0,53.0,Female,Asthma,Hypertension,Lisinopril,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,25.0,Female,Asthma,Asthma,Salbutamol,1.0,0.0,2.0,Appendectomy,1.0,Respite Care
+174.0,19.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+175.0,24.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+176.0,54.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+497.5,27.0,Female,Diabetes,Hypertension,Lisinopril,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Asthma,Diabetes,Metformin,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+179.0,48.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+180.0,45.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+497.5,49.0,Male,Hypertension,Asthma,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+182.0,56.0,Female,Hypertension,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,1.0,Home Care
+183.0,20.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+184.0,30.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+185.0,38.0,Female,Asthma,Asthma,Metformin,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+186.0,54.0,Male,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+187.0,44.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+188.0,79.0,Female,Asthma,Asthma,Metformin,1.0,0.0,0.0,Appendectomy,2.0,Home Care
+189.0,64.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+190.0,24.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+191.0,40.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+497.5,29.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+193.0,56.0,Male,Asthma,Diabetes,Metformin,1.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+194.0,77.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+195.0,34.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+196.0,62.0,Male,Asthma,Hypertension,Salbutamol,1.0,1.0,0.0,Knee Replacement,0.0,Respite Care
+197.0,60.0,Female,Hypertension,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+497.5,26.0,Male,Diabetes,Diabetes,Lisinopril,1.0,1.0,0.0,Appendectomy,1.0,Home Care
+199.0,88.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+200.0,27.0,Male,Asthma,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+497.5,23.0,Female,Asthma,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+202.0,51.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+203.0,19.0,Female,Hypertension,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+204.0,88.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+206.0,76.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+207.0,54.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+497.5,54.0,Female,Asthma,Asthma,Salbutamol,1.0,2.0,0.0,Knee Replacement,0.0,Respite Care
+209.0,54.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+210.0,77.0,Female,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+211.0,54.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,1.0,Appendectomy,2.0,Respite Care
+212.0,36.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,4.0,Respite Care
+497.5,76.0,Female,Asthma,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+214.0,54.0,Female,Diabetes,Asthma,Lisinopril,0.0,1.0,0.0,Knee Replacement,1.0,Home Care
+215.0,72.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,65.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Home Care
+217.0,71.0,Male,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+218.0,44.0,Female,Hypertension,Asthma,Salbutamol,0.0,1.0,0.0,Knee Replacement,1.0,Home Care
+219.0,25.0,Female,Asthma,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+220.0,88.0,Female,Asthma,Hypertension,Salbutamol,1.0,1.0,1.0,Knee Replacement,2.0,Respite Care
+221.0,85.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+222.0,72.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+223.0,32.0,Male,Asthma,Diabetes,Salbutamol,1.0,2.0,0.0,Appendectomy,1.0,Respite Care
+224.0,21.0,Female,Hypertension,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,0.0,Respite Care
+225.0,81.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+226.0,67.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+227.0,70.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+228.0,23.0,Male,Asthma,Asthma,Salbutamol,1.0,0.0,2.0,Appendectomy,1.0,Respite Care
+229.0,61.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,77.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+231.0,78.0,Male,Diabetes,Hypertension,Metformin,1.0,1.0,0.0,Appendectomy,2.0,Respite Care
+497.5,35.0,Male,Hypertension,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+233.0,25.0,Male,Asthma,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+234.0,59.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+235.0,46.0,Female,Hypertension,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+236.0,75.0,Male,Asthma,Diabetes,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+237.0,45.0,Female,Hypertension,Asthma,Lisinopril,0.0,1.0,0.0,Appendectomy,3.0,Home Care
+238.0,80.0,Male,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+239.0,54.0,Male,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Home Care
+240.0,55.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+241.0,89.0,Male,Hypertension,Asthma,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+242.0,42.0,Male,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,33.0,Female,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+244.0,51.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+245.0,51.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+246.0,71.0,Female,Hypertension,Hypertension,Lisinopril,0.0,2.0,0.0,Appendectomy,3.0,Respite Care
+247.0,53.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+497.5,71.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+249.0,36.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+250.0,54.0,Male,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+251.0,61.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+252.0,48.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+253.0,87.0,Female,Asthma,Hypertension,Metformin,2.0,1.0,1.0,Knee Replacement,1.0,Home Care
+497.5,54.0,Female,Hypertension,Diabetes,Salbutamol,1.0,1.0,0.0,Appendectomy,2.0,Respite Care
+255.0,44.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+256.0,21.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+257.0,54.0,Female,Diabetes,Asthma,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+258.0,44.0,Female,Hypertension,Asthma,Metformin,0.0,0.0,1.0,Appendectomy,2.0,Respite Care
+259.0,80.0,Female,Asthma,Asthma,Metformin,0.0,3.0,1.0,Appendectomy,0.0,Home Care
+497.5,42.0,Male,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+261.0,68.0,Female,Asthma,Diabetes,Salbutamol,1.0,1.0,0.0,Appendectomy,1.0,Respite Care
+262.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+263.0,28.0,Female,Asthma,Diabetes,Lisinopril,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+264.0,76.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,2.0,Home Care
+265.0,48.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+266.0,54.0,Female,Hypertension,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,0.0,Respite Care
+267.0,38.0,Female,Diabetes,Hypertension,Salbutamol,0.0,2.0,2.0,Knee Replacement,1.0,Respite Care
+268.0,65.0,Female,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+269.0,54.0,Male,Diabetes,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+270.0,54.0,Female,Asthma,Hypertension,Lisinopril,0.0,1.0,1.0,Appendectomy,2.0,Home Care
+271.0,20.0,Male,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+272.0,86.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+273.0,59.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+274.0,83.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+275.0,87.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+497.5,71.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+277.0,49.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Knee Replacement,2.0,Home Care
+278.0,85.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,2.0,Knee Replacement,1.0,Respite Care
+497.5,87.0,Male,Asthma,Hypertension,Lisinopril,1.0,1.0,0.0,Knee Replacement,2.0,Respite Care
+280.0,21.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+281.0,35.0,Male,Asthma,Asthma,Metformin,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+282.0,53.0,Male,Asthma,Hypertension,Lisinopril,0.0,1.0,2.0,Knee Replacement,0.0,Home Care
+283.0,24.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,2.0,Home Care
+284.0,54.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+285.0,54.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+287.0,25.0,Female,Asthma,Diabetes,Metformin,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+288.0,63.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Home Care
+289.0,54.0,Female,Hypertension,Asthma,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+290.0,54.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+291.0,54.0,Male,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+292.0,40.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+293.0,46.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+294.0,54.0,Female,Diabetes,Diabetes,Salbutamol,2.0,0.0,1.0,Knee Replacement,0.0,Home Care
+295.0,49.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Home Care
+497.5,36.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+297.0,54.0,Male,Asthma,Asthma,Salbutamol,0.0,1.0,1.0,Appendectomy,1.0,Respite Care
+298.0,87.0,Male,Hypertension,Hypertension,Metformin,2.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,50.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+300.0,24.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+301.0,65.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+302.0,58.0,Female,Diabetes,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+303.0,32.0,Female,Hypertension,Asthma,Salbutamol,1.0,1.0,0.0,Knee Replacement,1.0,Respite Care
+304.0,73.0,Male,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,2.0,Respite Care
+305.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+307.0,65.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+497.5,59.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+309.0,58.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,66.0,Male,Diabetes,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+311.0,54.0,Female,Diabetes,Hypertension,Salbutamol,2.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+312.0,67.0,Female,Asthma,Diabetes,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+313.0,61.0,Female,Hypertension,Diabetes,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+314.0,56.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+315.0,47.0,Female,Asthma,Diabetes,Salbutamol,0.0,1.0,0.0,Knee Replacement,0.0,Respite Care
+316.0,18.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+317.0,64.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+318.0,66.0,Female,Diabetes,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+319.0,54.0,Male,Hypertension,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,4.0,Respite Care
+320.0,48.0,Female,Asthma,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,2.0,Home Care
+321.0,47.0,Female,Asthma,Asthma,Lisinopril,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+322.0,33.0,Male,Diabetes,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,1.0,Respite Care
+497.5,20.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,32.0,Female,Asthma,Hypertension,Metformin,0.0,1.0,1.0,Appendectomy,1.0,Respite Care
+325.0,54.0,Female,Asthma,Asthma,Salbutamol,0.0,2.0,0.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Female,Diabetes,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+327.0,83.0,Female,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,30.0,Male,Asthma,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,0.0,Respite Care
+329.0,19.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+330.0,70.0,Male,Asthma,Hypertension,Metformin,1.0,2.0,0.0,Knee Replacement,1.0,Home Care
+331.0,45.0,Female,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+332.0,36.0,Male,Hypertension,Asthma,Salbutamol,0.0,0.0,2.0,Appendectomy,2.0,Respite Care
+333.0,57.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,3.0,Respite Care
+334.0,19.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,79.0,Male,Hypertension,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,3.0,Home Care
+497.5,54.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+337.0,72.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+338.0,67.0,Male,Asthma,Hypertension,Metformin,2.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+339.0,82.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Home Care
+340.0,54.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+341.0,34.0,Female,Diabetes,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+342.0,24.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+343.0,37.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+497.5,64.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+345.0,88.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,45.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+347.0,24.0,Female,Asthma,Diabetes,Salbutamol,0.0,1.0,1.0,Knee Replacement,0.0,Home Care
+348.0,25.0,Male,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,25.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+350.0,71.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+351.0,79.0,Female,Hypertension,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,2.0,Respite Care
+352.0,67.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+353.0,18.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+354.0,56.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+355.0,38.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+356.0,70.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+357.0,50.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+358.0,48.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+359.0,64.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+360.0,20.0,Male,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+361.0,54.0,Male,Hypertension,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+362.0,80.0,Female,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Home Care
+363.0,54.0,Female,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,53.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+365.0,48.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+366.0,84.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+367.0,54.0,Female,Diabetes,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+368.0,88.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+369.0,64.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+370.0,37.0,Female,Asthma,Hypertension,Metformin,2.0,1.0,0.0,Appendectomy,2.0,Home Care
+371.0,83.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+372.0,76.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+373.0,28.0,Female,Asthma,Asthma,Metformin,1.0,0.0,0.0,Appendectomy,2.0,Home Care
+374.0,84.0,Female,Diabetes,Hypertension,Salbutamol,2.0,1.0,0.0,Appendectomy,1.0,Respite Care
+375.0,27.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+376.0,79.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+377.0,49.0,Female,Asthma,Diabetes,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+378.0,52.0,Male,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,1.0,Home Care
+497.5,65.0,Female,Diabetes,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+380.0,85.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+381.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+382.0,20.0,Male,Asthma,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+383.0,54.0,Male,Asthma,Diabetes,Salbutamol,0.0,1.0,1.0,Appendectomy,2.0,Respite Care
+384.0,65.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+385.0,81.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,2.0,Respite Care
+497.5,48.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+387.0,36.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+388.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+389.0,86.0,Female,Hypertension,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,0.0,Respite Care
+390.0,54.0,Female,Diabetes,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,2.0,Home Care
+391.0,72.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+392.0,72.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+393.0,22.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+394.0,76.0,Male,Hypertension,Hypertension,Metformin,2.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+395.0,84.0,Male,Hypertension,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+396.0,74.0,Male,Asthma,Hypertension,Salbutamol,1.0,2.0,0.0,Appendectomy,2.0,Respite Care
+397.0,33.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+398.0,64.0,Female,Hypertension,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,3.0,Respite Care
+399.0,54.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+400.0,32.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+401.0,54.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Female,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+403.0,33.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+404.0,61.0,Female,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+405.0,67.0,Female,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+407.0,34.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+408.0,44.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+409.0,55.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+410.0,66.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+411.0,54.0,Female,Diabetes,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+497.5,35.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+413.0,52.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Knee Replacement,0.0,Respite Care
+414.0,54.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+415.0,77.0,Male,Diabetes,Diabetes,Metformin,1.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+416.0,31.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+417.0,72.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+418.0,53.0,Female,Diabetes,Diabetes,Lisinopril,0.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+419.0,64.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+420.0,29.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+421.0,71.0,Male,Asthma,Diabetes,Lisinopril,2.0,1.0,0.0,Appendectomy,0.0,Respite Care
+497.5,77.0,Female,Hypertension,Diabetes,Salbutamol,1.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+423.0,22.0,Female,Asthma,Asthma,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+497.5,83.0,Female,Asthma,Asthma,Lisinopril,1.0,0.0,0.0,Appendectomy,3.0,Respite Care
+425.0,25.0,Female,Diabetes,Asthma,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Home Care
+426.0,63.0,Female,Asthma,Asthma,Metformin,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+427.0,60.0,Male,Hypertension,Hypertension,Metformin,2.0,0.0,0.0,Appendectomy,5.0,Respite Care
+428.0,46.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+429.0,35.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+430.0,49.0,Male,Diabetes,Hypertension,Salbutamol,0.0,2.0,0.0,Appendectomy,1.0,Respite Care
+431.0,77.0,Male,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,33.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+433.0,80.0,Female,Asthma,Diabetes,Salbutamol,0.0,1.0,0.0,Appendectomy,0.0,Respite Care
+434.0,54.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Home Care
+435.0,57.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,2.0,Home Care
+497.5,28.0,Female,Hypertension,Hypertension,Salbutamol,2.0,2.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,68.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+438.0,26.0,Female,Asthma,Asthma,Salbutamol,0.0,2.0,0.0,Appendectomy,1.0,Home Care
+439.0,37.0,Female,Asthma,Hypertension,Lisinopril,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+497.5,55.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,66.0,Female,Hypertension,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+442.0,29.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+443.0,67.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+444.0,49.0,Female,Asthma,Hypertension,Salbutamol,3.0,1.0,0.0,Appendectomy,1.0,Respite Care
+445.0,57.0,Female,Diabetes,Asthma,Salbutamol,2.0,0.0,1.0,Appendectomy,1.0,Respite Care
+446.0,85.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+497.5,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+448.0,86.0,Male,Asthma,Asthma,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Home Care
+449.0,34.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,28.0,Male,Diabetes,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,69.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+452.0,28.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+453.0,89.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+454.0,74.0,Male,Diabetes,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+455.0,49.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,1.0,Knee Replacement,1.0,Home Care
+456.0,54.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+457.0,54.0,Male,Asthma,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,1.0,Respite Care
+458.0,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+459.0,54.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+460.0,83.0,Male,Diabetes,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+461.0,69.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Knee Replacement,1.0,Home Care
+462.0,28.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+463.0,82.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,79.0,Female,Asthma,Asthma,Salbutamol,2.0,2.0,0.0,Appendectomy,1.0,Home Care
+497.5,82.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,1.0,Knee Replacement,4.0,Respite Care
+466.0,44.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+467.0,31.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,1.0,Respite Care
+468.0,87.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+469.0,18.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,27.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+471.0,31.0,Male,Diabetes,Hypertension,Lisinopril,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+472.0,54.0,Male,Diabetes,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+473.0,54.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+474.0,65.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,3.0,Home Care
+475.0,79.0,Female,Asthma,Hypertension,Lisinopril,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Diabetes,Hypertension,Lisinopril,0.0,1.0,1.0,Appendectomy,1.0,Respite Care
+477.0,54.0,Male,Hypertension,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+478.0,54.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+479.0,54.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+480.0,55.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+497.5,40.0,Male,Hypertension,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Home Care
+482.0,26.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,20.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,2.0,Respite Care
+484.0,46.0,Male,Asthma,Hypertension,Salbutamol,0.0,1.0,1.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+486.0,79.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+488.0,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+489.0,83.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+490.0,62.0,Female,Diabetes,Asthma,Metformin,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+497.5,28.0,Female,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+492.0,25.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+493.0,35.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+494.0,59.0,Female,Diabetes,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,72.0,Male,Asthma,Diabetes,Salbutamol,3.0,0.0,0.0,Appendectomy,0.0,Home Care
+496.0,46.0,Male,Asthma,Hypertension,Metformin,2.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,72.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,47.0,Male,Diabetes,Hypertension,Lisinopril,0.0,1.0,0.0,Appendectomy,3.0,Respite Care
+499.0,59.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,74.0,Female,Hypertension,Diabetes,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+501.0,41.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Home Care
+502.0,54.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+503.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+504.0,57.0,Female,Asthma,Diabetes,Lisinopril,0.0,0.0,1.0,Appendectomy,3.0,Respite Care
+505.0,38.0,Female,Asthma,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,3.0,Respite Care
+506.0,54.0,Male,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+507.0,54.0,Male,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+508.0,57.0,Male,Hypertension,Hypertension,Metformin,2.0,0.0,1.0,Appendectomy,1.0,Respite Care
+509.0,46.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+510.0,43.0,Female,Diabetes,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+511.0,40.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,38.0,Male,Asthma,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,53.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+514.0,50.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+515.0,69.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+516.0,59.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+517.0,46.0,Female,Hypertension,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,3.0,Home Care
+518.0,34.0,Female,Hypertension,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+519.0,55.0,Female,Asthma,Hypertension,Metformin,3.0,0.0,0.0,Appendectomy,3.0,Respite Care
+520.0,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,1.0,0.0,Knee Replacement,3.0,Home Care
+521.0,38.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+522.0,88.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+523.0,54.0,Female,Diabetes,Asthma,Salbutamol,1.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+524.0,49.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+525.0,54.0,Female,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+526.0,64.0,Male,Hypertension,Asthma,Salbutamol,1.0,1.0,0.0,Appendectomy,1.0,Respite Care
+527.0,33.0,Male,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+528.0,54.0,Male,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+529.0,68.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Home Care
+530.0,64.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+531.0,61.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,1.0,Appendectomy,3.0,Home Care
+532.0,22.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+533.0,24.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,23.0,Female,Asthma,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+535.0,37.0,Male,Asthma,Hypertension,Metformin,1.0,1.0,2.0,Appendectomy,1.0,Respite Care
+536.0,71.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,2.0,Respite Care
+537.0,20.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,4.0,Respite Care
+497.5,63.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+539.0,41.0,Male,Asthma,Asthma,Lisinopril,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+540.0,77.0,Female,Asthma,Hypertension,Metformin,1.0,0.0,2.0,Appendectomy,2.0,Home Care
+541.0,60.0,Male,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+542.0,58.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,2.0,Knee Replacement,3.0,Home Care
+543.0,29.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+544.0,25.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+545.0,54.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+546.0,86.0,Male,Asthma,Asthma,Metformin,1.0,1.0,0.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+497.5,57.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,2.0,Home Care
+549.0,36.0,Male,Asthma,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+550.0,67.0,Female,Asthma,Hypertension,Lisinopril,0.0,1.0,0.0,Appendectomy,2.0,Respite Care
+551.0,66.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,2.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,2.0,Home Care
+553.0,73.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+554.0,42.0,Female,Diabetes,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+555.0,40.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+556.0,31.0,Female,Asthma,Diabetes,Lisinopril,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+557.0,54.0,Male,Hypertension,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+558.0,41.0,Female,Hypertension,Asthma,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Home Care
+559.0,81.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,72.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+561.0,34.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+562.0,71.0,Female,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+563.0,31.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+564.0,61.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+565.0,62.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+566.0,82.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+567.0,22.0,Female,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,28.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+569.0,61.0,Male,Asthma,Diabetes,Lisinopril,0.0,1.0,0.0,Appendectomy,1.0,Home Care
+497.5,65.0,Male,Asthma,Hypertension,Lisinopril,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+571.0,43.0,Male,Hypertension,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+572.0,34.0,Male,Asthma,Diabetes,Lisinopril,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+573.0,39.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,37.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+575.0,33.0,Female,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+576.0,54.0,Male,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+577.0,35.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+578.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+579.0,68.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,18.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,78.0,Female,Hypertension,Asthma,Lisinopril,0.0,0.0,3.0,Appendectomy,0.0,Home Care
+582.0,42.0,Female,Diabetes,Hypertension,Lisinopril,1.0,0.0,1.0,Appendectomy,1.0,Home Care
+583.0,83.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,2.0,Respite Care
+584.0,74.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,18.0,Male,Asthma,Hypertension,Lisinopril,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Hypertension,Hypertension,Lisinopril,0.0,1.0,0.0,Appendectomy,0.0,Respite Care
+587.0,69.0,Male,Hypertension,Hypertension,Lisinopril,1.0,0.0,0.0,Knee Replacement,0.0,Home Care
+588.0,73.0,Female,Hypertension,Hypertension,Lisinopril,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+589.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,1.0,Home Care
+590.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+591.0,59.0,Male,Diabetes,Asthma,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+592.0,79.0,Female,Asthma,Asthma,Metformin,0.0,1.0,0.0,Knee Replacement,0.0,Respite Care
+593.0,28.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+594.0,86.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+595.0,60.0,Male,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,2.0,Respite Care
+596.0,54.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+597.0,49.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+598.0,30.0,Male,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+599.0,63.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,2.0,Knee Replacement,5.0,Respite Care
+600.0,39.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,54.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,89.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+603.0,54.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+604.0,35.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Knee Replacement,2.0,Respite Care
+605.0,69.0,Female,Hypertension,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+606.0,23.0,Male,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+607.0,54.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,2.0,Appendectomy,1.0,Respite Care
+608.0,73.0,Female,Asthma,Hypertension,Salbutamol,3.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+609.0,71.0,Female,Diabetes,Asthma,Metformin,1.0,1.0,0.0,Appendectomy,0.0,Respite Care
+610.0,34.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+611.0,83.0,Female,Asthma,Diabetes,Metformin,3.0,0.0,1.0,Appendectomy,1.0,Respite Care
+612.0,34.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+613.0,57.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+614.0,41.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+615.0,29.0,Male,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+616.0,65.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+617.0,87.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+618.0,54.0,Male,Hypertension,Asthma,Metformin,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+619.0,18.0,Male,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+620.0,54.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,29.0,Female,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+622.0,76.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,0.0,Home Care
+623.0,83.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,2.0,Knee Replacement,0.0,Respite Care
+624.0,71.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,75.0,Female,Diabetes,Asthma,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+626.0,49.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+627.0,76.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+628.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,0.0,Home Care
+497.5,54.0,Male,Diabetes,Diabetes,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,46.0,Male,Diabetes,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,3.0,Respite Care
+497.5,54.0,Male,Asthma,Asthma,Salbutamol,1.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+632.0,55.0,Female,Hypertension,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,1.0,Respite Care
+497.5,82.0,Male,Asthma,Diabetes,Metformin,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+634.0,38.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,72.0,Male,Asthma,Asthma,Lisinopril,0.0,1.0,0.0,Knee Replacement,1.0,Respite Care
+636.0,57.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+637.0,68.0,Male,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,4.0,Respite Care
+497.5,34.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+639.0,74.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,3.0,Home Care
+497.5,54.0,Female,Hypertension,Hypertension,Lisinopril,2.0,1.0,0.0,Appendectomy,0.0,Respite Care
+641.0,65.0,Male,Diabetes,Asthma,Salbutamol,0.0,1.0,0.0,Appendectomy,0.0,Respite Care
+642.0,30.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Knee Replacement,4.0,Respite Care
+643.0,72.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+644.0,74.0,Male,Diabetes,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+645.0,67.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,1.0,Appendectomy,0.0,Respite Care
+646.0,45.0,Male,Asthma,Diabetes,Lisinopril,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+647.0,69.0,Female,Asthma,Asthma,Metformin,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+648.0,62.0,Male,Asthma,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+649.0,54.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+650.0,21.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,54.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,2.0,Appendectomy,1.0,Respite Care
+497.5,72.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,87.0,Female,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Home Care
+654.0,84.0,Male,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,4.0,Respite Care
+655.0,78.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+656.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+657.0,54.0,Male,Asthma,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+658.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+659.0,89.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+660.0,19.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,2.0,Appendectomy,0.0,Respite Care
+661.0,54.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,0.0,Home Care
+662.0,65.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+664.0,86.0,Male,Asthma,Asthma,Salbutamol,0.0,1.0,1.0,Appendectomy,1.0,Home Care
+665.0,42.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+666.0,54.0,Male,Asthma,Asthma,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,38.0,Female,Hypertension,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+668.0,57.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+669.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+670.0,75.0,Female,Diabetes,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+671.0,18.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,18.0,Female,Asthma,Hypertension,Metformin,2.0,0.0,0.0,Appendectomy,0.0,Respite Care
+673.0,89.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+674.0,80.0,Female,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+675.0,54.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+676.0,54.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+677.0,35.0,Female,Diabetes,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,0.0,Respite Care
+497.5,21.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+679.0,66.0,Male,Asthma,Hypertension,Salbutamol,0.0,2.0,0.0,Appendectomy,0.0,Respite Care
+680.0,85.0,Male,Asthma,Diabetes,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+681.0,47.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,27.0,Female,Diabetes,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+683.0,25.0,Female,Asthma,Hypertension,Lisinopril,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+684.0,32.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+685.0,65.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+686.0,38.0,Male,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+687.0,87.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+688.0,80.0,Male,Asthma,Asthma,Lisinopril,0.0,1.0,1.0,Knee Replacement,1.0,Respite Care
+689.0,54.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+690.0,47.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+691.0,28.0,Male,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+692.0,82.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+693.0,18.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+694.0,81.0,Male,Diabetes,Hypertension,Lisinopril,1.0,0.0,0.0,Knee Replacement,2.0,Home Care
+695.0,54.0,Male,Asthma,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+696.0,68.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,1.0,Knee Replacement,1.0,Home Care
+497.5,69.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+698.0,68.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+699.0,25.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,1.0,Home Care
+700.0,46.0,Female,Asthma,Asthma,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+701.0,35.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+702.0,39.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+703.0,20.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+704.0,44.0,Male,Hypertension,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,26.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+706.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,47.0,Female,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,43.0,Female,Asthma,Diabetes,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Home Care
+709.0,76.0,Male,Asthma,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+710.0,54.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+711.0,41.0,Female,Asthma,Hypertension,Metformin,2.0,0.0,0.0,Appendectomy,2.0,Respite Care
+712.0,40.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+713.0,70.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+714.0,42.0,Female,Asthma,Asthma,Salbutamol,0.0,1.0,1.0,Knee Replacement,0.0,Respite Care
+715.0,54.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Home Care
+716.0,36.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+717.0,36.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+718.0,49.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,76.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+720.0,75.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+721.0,48.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,62.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+723.0,60.0,Male,Asthma,Asthma,Metformin,0.0,0.0,1.0,Knee Replacement,4.0,Home Care
+724.0,51.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+725.0,51.0,Female,Diabetes,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,67.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+727.0,54.0,Female,Asthma,Asthma,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+728.0,54.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Home Care
+729.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+730.0,33.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+731.0,82.0,Male,Asthma,Diabetes,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+732.0,56.0,Male,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+733.0,68.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+734.0,39.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,2.0,Respite Care
+497.5,79.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+737.0,54.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+738.0,25.0,Female,Hypertension,Hypertension,Lisinopril,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+739.0,61.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+740.0,61.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+741.0,78.0,Male,Asthma,Hypertension,Salbutamol,2.0,1.0,0.0,Appendectomy,0.0,Respite Care
+742.0,52.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+743.0,54.0,Female,Diabetes,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,2.0,Home Care
+744.0,18.0,Female,Asthma,Diabetes,Lisinopril,2.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,54.0,Male,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+746.0,52.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+747.0,20.0,Female,Diabetes,Hypertension,Lisinopril,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+748.0,66.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+749.0,77.0,Female,Hypertension,Hypertension,Salbutamol,1.0,1.0,0.0,Appendectomy,1.0,Respite Care
+750.0,44.0,Male,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+751.0,72.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+752.0,54.0,Male,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+497.5,38.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+754.0,54.0,Female,Diabetes,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+755.0,63.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+756.0,66.0,Female,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+758.0,19.0,Female,Hypertension,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,77.0,Male,Diabetes,Hypertension,Salbutamol,0.0,0.0,2.0,Knee Replacement,0.0,Home Care
+760.0,67.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+761.0,40.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+762.0,58.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+763.0,36.0,Female,Diabetes,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+764.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Knee Replacement,2.0,Respite Care
+497.5,20.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Respite Care
+766.0,54.0,Female,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+767.0,21.0,Female,Diabetes,Hypertension,Lisinopril,1.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+497.5,47.0,Female,Hypertension,Asthma,Lisinopril,4.0,0.0,1.0,Appendectomy,1.0,Respite Care
+769.0,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+770.0,73.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+771.0,31.0,Female,Hypertension,Diabetes,Lisinopril,2.0,0.0,0.0,Appendectomy,0.0,Respite Care
+772.0,54.0,Female,Asthma,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,36.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,3.0,Respite Care
+774.0,24.0,Male,Hypertension,Diabetes,Metformin,0.0,1.0,0.0,Knee Replacement,1.0,Respite Care
+775.0,38.0,Female,Diabetes,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+776.0,67.0,Female,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+777.0,19.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,28.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+779.0,38.0,Female,Diabetes,Diabetes,Metformin,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+780.0,18.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+781.0,30.0,Female,Hypertension,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+782.0,87.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,44.0,Male,Asthma,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,1.0,1.0,Knee Replacement,1.0,Home Care
+497.5,81.0,Male,Diabetes,Asthma,Salbutamol,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+497.5,36.0,Male,Hypertension,Hypertension,Lisinopril,2.0,0.0,0.0,Knee Replacement,3.0,Respite Care
+787.0,79.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+788.0,51.0,Male,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+789.0,27.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,3.0,Home Care
+790.0,18.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,44.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,25.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+793.0,73.0,Female,Hypertension,Hypertension,Metformin,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+794.0,35.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+795.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+796.0,77.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+797.0,25.0,Female,Asthma,Hypertension,Metformin,0.0,2.0,0.0,Appendectomy,1.0,Home Care
+798.0,57.0,Female,Diabetes,Hypertension,Lisinopril,2.0,0.0,0.0,Knee Replacement,1.0,Home Care
+799.0,34.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+800.0,68.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+801.0,58.0,Male,Diabetes,Asthma,Metformin,0.0,0.0,2.0,Appendectomy,1.0,Respite Care
+802.0,72.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+803.0,23.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+805.0,44.0,Male,Diabetes,Asthma,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,82.0,Female,Asthma,Hypertension,Lisinopril,1.0,1.0,0.0,Knee Replacement,1.0,Respite Care
+807.0,26.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+808.0,74.0,Male,Diabetes,Hypertension,Lisinopril,0.0,1.0,0.0,Knee Replacement,2.0,Home Care
+497.5,54.0,Female,Diabetes,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+810.0,54.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,0.0,Respite Care
+811.0,41.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,3.0,Home Care
+812.0,55.0,Female,Asthma,Asthma,Salbutamol,2.0,0.0,0.0,Appendectomy,2.0,Respite Care
+813.0,29.0,Female,Asthma,Asthma,Metformin,0.0,0.0,1.0,Knee Replacement,2.0,Respite Care
+814.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,2.0,Appendectomy,0.0,Home Care
+815.0,78.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+816.0,24.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,1.0,Knee Replacement,0.0,Home Care
+817.0,54.0,Male,Asthma,Asthma,Salbutamol,2.0,1.0,0.0,Appendectomy,1.0,Respite Care
+818.0,54.0,Female,Asthma,Diabetes,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Home Care
+819.0,22.0,Male,Asthma,Diabetes,Metformin,1.0,0.0,1.0,Appendectomy,2.0,Home Care
+820.0,57.0,Female,Hypertension,Hypertension,Lisinopril,0.0,1.0,1.0,Knee Replacement,2.0,Home Care
+821.0,48.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+822.0,52.0,Male,Asthma,Diabetes,Salbutamol,0.0,1.0,0.0,Knee Replacement,0.0,Respite Care
+823.0,60.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+824.0,29.0,Female,Asthma,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,3.0,Respite Care
+825.0,73.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+826.0,40.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+827.0,42.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+828.0,85.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+829.0,82.0,Male,Hypertension,Diabetes,Lisinopril,1.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+497.5,76.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+831.0,60.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+832.0,76.0,Female,Hypertension,Asthma,Metformin,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+833.0,21.0,Female,Asthma,Hypertension,Salbutamol,2.0,1.0,0.0,Appendectomy,5.0,Home Care
+834.0,32.0,Female,Asthma,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,29.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+836.0,54.0,Male,Asthma,Diabetes,Metformin,0.0,0.0,2.0,Appendectomy,1.0,Respite Care
+497.5,66.0,Female,Diabetes,Asthma,Salbutamol,0.0,2.0,0.0,Appendectomy,1.0,Respite Care
+838.0,83.0,Female,Asthma,Hypertension,Lisinopril,3.0,0.0,2.0,Knee Replacement,1.0,Respite Care
+839.0,82.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+840.0,29.0,Male,Asthma,Hypertension,Metformin,0.0,1.0,0.0,Appendectomy,0.0,Respite Care
+497.5,41.0,Male,Hypertension,Diabetes,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+842.0,54.0,Female,Hypertension,Diabetes,Salbutamol,1.0,0.0,1.0,Appendectomy,0.0,Home Care
+843.0,48.0,Female,Hypertension,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+844.0,33.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,77.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+846.0,20.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+847.0,65.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+848.0,86.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,2.0,Appendectomy,2.0,Respite Care
+497.5,60.0,Female,Diabetes,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,3.0,Respite Care
+850.0,41.0,Female,Diabetes,Hypertension,Metformin,0.0,1.0,0.0,Knee Replacement,2.0,Home Care
+851.0,54.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+852.0,54.0,Female,Diabetes,Diabetes,Lisinopril,0.0,1.0,2.0,Knee Replacement,2.0,Home Care
+853.0,28.0,Female,Diabetes,Diabetes,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+854.0,38.0,Female,Diabetes,Diabetes,Salbutamol,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+855.0,75.0,Male,Diabetes,Asthma,Salbutamol,0.0,1.0,0.0,Knee Replacement,1.0,Respite Care
+856.0,86.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+857.0,54.0,Female,Asthma,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+858.0,66.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+859.0,31.0,Male,Asthma,Hypertension,Lisinopril,2.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+860.0,57.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Home Care
+861.0,46.0,Female,Hypertension,Hypertension,Salbutamol,0.0,2.0,1.0,Appendectomy,1.0,Respite Care
+862.0,71.0,Male,Asthma,Asthma,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+863.0,68.0,Male,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+864.0,85.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+866.0,54.0,Male,Hypertension,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,2.0,Home Care
+867.0,26.0,Female,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+868.0,54.0,Male,Asthma,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+869.0,18.0,Female,Hypertension,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+870.0,54.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,89.0,Female,Hypertension,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,0.0,Home Care
+872.0,49.0,Male,Asthma,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Home Care
+873.0,61.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,30.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+875.0,20.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+876.0,74.0,Female,Asthma,Diabetes,Salbutamol,2.0,0.0,0.0,Appendectomy,2.0,Home Care
+877.0,65.0,Female,Diabetes,Hypertension,Metformin,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+878.0,76.0,Female,Hypertension,Diabetes,Salbutamol,2.0,1.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,76.0,Female,Diabetes,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+880.0,58.0,Female,Asthma,Diabetes,Metformin,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+881.0,80.0,Female,Diabetes,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,57.0,Male,Diabetes,Hypertension,Metformin,2.0,1.0,0.0,Appendectomy,0.0,Respite Care
+497.5,46.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+884.0,88.0,Male,Diabetes,Hypertension,Metformin,2.0,0.0,0.0,Appendectomy,1.0,Home Care
+885.0,54.0,Male,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+886.0,36.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+887.0,76.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+888.0,21.0,Female,Asthma,Asthma,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Male,Asthma,Asthma,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Home Care
+890.0,26.0,Male,Asthma,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,70.0,Female,Diabetes,Asthma,Metformin,0.0,1.0,0.0,Knee Replacement,0.0,Respite Care
+892.0,80.0,Male,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,67.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,81.0,Female,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+895.0,74.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,58.0,Male,Asthma,Asthma,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+897.0,54.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Home Care
+497.5,60.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Appendectomy,0.0,Respite Care
+899.0,43.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Home Care
+900.0,45.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+901.0,29.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+902.0,32.0,Female,Hypertension,Asthma,Lisinopril,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+903.0,62.0,Female,Hypertension,Diabetes,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,52.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+905.0,43.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+906.0,79.0,Male,Asthma,Asthma,Metformin,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+907.0,64.0,Female,Diabetes,Hypertension,Lisinopril,1.0,2.0,1.0,Knee Replacement,2.0,Home Care
+497.5,68.0,Female,Asthma,Hypertension,Salbutamol,2.0,1.0,0.0,Appendectomy,0.0,Home Care
+497.5,68.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+910.0,89.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+911.0,47.0,Female,Asthma,Diabetes,Metformin,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+912.0,39.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,1.0,Home Care
+497.5,28.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+914.0,54.0,Female,Asthma,Asthma,Metformin,0.0,0.0,1.0,Appendectomy,2.0,Respite Care
+497.5,45.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+916.0,54.0,Male,Asthma,Hypertension,Salbutamol,2.0,1.0,0.0,Appendectomy,1.0,Respite Care
+917.0,54.0,Female,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+918.0,54.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,56.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,2.0,Respite Care
+920.0,68.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+921.0,38.0,Female,Diabetes,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+922.0,62.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,2.0,Respite Care
+923.0,26.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,53.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+497.5,57.0,Male,Diabetes,Hypertension,Salbutamol,0.0,2.0,0.0,Appendectomy,1.0,Home Care
+926.0,60.0,Male,Asthma,Diabetes,Metformin,0.0,1.0,0.0,Appendectomy,1.0,Respite Care
+927.0,39.0,Female,Asthma,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+928.0,45.0,Female,Diabetes,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,1.0,0.0,Knee Replacement,2.0,Respite Care
+497.5,78.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+497.5,68.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+932.0,50.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+933.0,54.0,Female,Asthma,Diabetes,Metformin,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+934.0,38.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,4.0,Respite Care
+935.0,25.0,Male,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+936.0,54.0,Female,Asthma,Diabetes,Metformin,0.0,1.0,0.0,Knee Replacement,2.0,Respite Care
+937.0,54.0,Female,Hypertension,Diabetes,Metformin,1.0,1.0,0.0,Appendectomy,0.0,Respite Care
+938.0,31.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,2.0,Appendectomy,1.0,Home Care
+939.0,79.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+940.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Knee Replacement,0.0,Respite Care
+941.0,87.0,Male,Asthma,Asthma,Salbutamol,0.0,1.0,2.0,Appendectomy,3.0,Respite Care
+942.0,42.0,Female,Diabetes,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+943.0,35.0,Female,Diabetes,Hypertension,Lisinopril,2.0,0.0,1.0,Knee Replacement,1.0,Home Care
+944.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+945.0,54.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+497.5,77.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+497.5,60.0,Female,Hypertension,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,3.0,Home Care
+948.0,40.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+949.0,54.0,Female,Diabetes,Asthma,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+950.0,54.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,1.0,Appendectomy,3.0,Respite Care
+951.0,87.0,Male,Asthma,Hypertension,Lisinopril,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+952.0,68.0,Female,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+953.0,36.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,38.0,Male,Hypertension,Hypertension,Metformin,1.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+955.0,48.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+956.0,54.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+957.0,32.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+958.0,20.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+959.0,81.0,Female,Hypertension,Hypertension,Metformin,1.0,0.0,1.0,Knee Replacement,0.0,Respite Care
+960.0,51.0,Female,Asthma,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+961.0,20.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,2.0,Respite Care
+962.0,60.0,Female,Hypertension,Hypertension,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+963.0,86.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+964.0,63.0,Male,Hypertension,Hypertension,Metformin,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+965.0,39.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+966.0,65.0,Female,Hypertension,Hypertension,Salbutamol,2.0,0.0,0.0,Appendectomy,1.0,Respite Care
+497.5,60.0,Male,Diabetes,Diabetes,Salbutamol,2.0,0.0,0.0,Appendectomy,0.0,Home Care
+497.5,46.0,Male,Asthma,Diabetes,Lisinopril,0.0,1.0,0.0,Appendectomy,0.0,Home Care
+969.0,89.0,Female,Asthma,Asthma,Lisinopril,0.0,0.0,1.0,Appendectomy,2.0,Respite Care
+970.0,33.0,Female,Hypertension,Hypertension,Salbutamol,0.0,2.0,0.0,Appendectomy,2.0,Home Care
+497.5,84.0,Male,Asthma,Asthma,Metformin,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+972.0,54.0,Female,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Home Care
+973.0,24.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+974.0,49.0,Female,Asthma,Hypertension,Metformin,1.0,0.0,0.0,Appendectomy,0.0,Respite Care
+975.0,87.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,2.0,Knee Replacement,0.0,Respite Care
+976.0,38.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Knee Replacement,1.0,Respite Care
+977.0,58.0,Female,Asthma,Hypertension,Metformin,1.0,0.0,1.0,Knee Replacement,0.0,Home Care
+497.5,82.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,1.0,Appendectomy,0.0,Respite Care
+979.0,54.0,Male,Asthma,Asthma,Lisinopril,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+980.0,31.0,Female,Diabetes,Diabetes,Metformin,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+981.0,65.0,Male,Asthma,Hypertension,Lisinopril,0.0,0.0,1.0,Appendectomy,1.0,Respite Care
+497.5,42.0,Male,Hypertension,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+497.5,69.0,Male,Asthma,Asthma,Lisinopril,1.0,0.0,0.0,Knee Replacement,1.0,Home Care
+984.0,81.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+985.0,79.0,Female,Asthma,Hypertension,Lisinopril,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+986.0,54.0,Male,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Home Care
+987.0,88.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+988.0,55.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,2.0,Home Care
+989.0,18.0,Female,Asthma,Diabetes,Salbutamol,0.0,0.0,0.0,Appendectomy,1.0,Respite Care
+990.0,70.0,Female,Asthma,Asthma,Lisinopril,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+991.0,51.0,Female,Asthma,Asthma,Salbutamol,0.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+497.5,28.0,Male,Asthma,Diabetes,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Respite Care
+993.0,59.0,Female,Hypertension,Asthma,Salbutamol,1.0,0.0,0.0,Appendectomy,1.0,Home Care
+994.0,87.0,Male,Asthma,Hypertension,Salbutamol,1.0,0.0,1.0,Appendectomy,1.0,Respite Care
+995.0,33.0,Female,Asthma,Hypertension,Salbutamol,1.0,0.0,0.0,Knee Replacement,1.0,Respite Care
+996.0,23.0,Female,Asthma,Hypertension,Salbutamol,0.0,0.0,0.0,Appendectomy,0.0,Home Care
+997.0,20.0,Female,Asthma,Diabetes,Metformin,0.0,0.0,0.0,Appendectomy,0.0,Respite Care
+998.0,52.0,Male,Hypertension,Hypertension,Salbutamol,0.0,0.0,0.0,Knee Replacement,0.0,Home Care
+999.0,54.0,Female,Asthma,Diabetes,Lisinopril,1.0,0.0,0.0,Knee Replacement,0.0,Respite Care
+1000.0,51.0,Male,Asthma,Asthma,Salbutamol,0.0,1.0,0.0,Appendectomy,1.0,Home Care
