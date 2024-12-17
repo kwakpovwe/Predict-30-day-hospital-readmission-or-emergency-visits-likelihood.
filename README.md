@@ -32,16 +32,16 @@ The primary goal is to build an interpretable and efficient machine learning mod
 ## Steps in the Project
 
     Data Preparation:
-        Merging datasets using Patient_ID as the primary key.
-        Handling missing values:
-            Numerical: Replaced with mean.
-            Categorical: Replaced with mode.
+    Merging datasets using Patient_ID as the primary key.
+    Handling missing values:
+    Numerical: Replaced with mean.
+    Categorical: Replaced with mode.
     
 ## Feature Engineering:
         Key new features:
-            Total Healthcare Visits
-            Count of Comorbidities
-            High-Risk Medications
+        - Total Healthcare Visits
+        - Count of Comorbidities
+        - High-Risk Medications
 
 ## Class Imbalance Management:
         Addressed imbalance to ensure the model focuses on both low-risk and high-risk patients.
