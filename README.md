@@ -1,6 +1,6 @@
-#Adverse Model Prediction for Hospital Readmissions
+# Adverse Model Prediction for Hospital Readmissions
 
-##Overview
+## Overview
 
 This project focuses on predicting the likelihood of hospital readmissions or emergency visits within 30 days of patient discharge. By accurately identifying high-risk patients, healthcare providers can prioritize interventions, reduce hospital resource usage, and improve patient outcomes.
 Objective
