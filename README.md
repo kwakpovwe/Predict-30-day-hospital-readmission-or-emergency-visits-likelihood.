@@ -1,4 +1,10 @@
+
 # Adverse Model Prediction for Hospital Readmissions
+
+
+![Description of Image](https://github.com/kwakpovwe/Predict-30-day-hospital-readmission-or-emergency-visits-likelihood./blob/main/DATASET/hospitalization.jpg?raw=true)
+
+
 
 ## Overview
 
