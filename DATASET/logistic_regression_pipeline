@@ -1,5 +1,0 @@
-digraph {
-	Scaler [label=StandardScaler shape=box]
-	"Logistic Regression" [label="Logistic Regression (max_iter=1000)" shape=box]
-	Scaler -> "Logistic Regression"
-}
